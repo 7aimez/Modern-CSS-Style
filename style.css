@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Barrio&family=Comfortaa:wght@300&family=Doto:wght@100..900&family=Kablammo&family=Poiret+One&family=Quicksand:wght@300&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Roboto Mono';
+  font-weight: 10;
+}
+
+h2{
+  font-family: 'Roboto Mono';
+  font-weight: 10;
+}
+
+h3 {
+  font-family: 'Roboto Mono';
+  font-weight: 10;
+}
+
+h4 {
+  font-family: 'Roboto Mono';
+  font-weight: 10;
+}
+
+body {
+  font-family: 'Quicksand';
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  font-family: 'Roboto Mono';
+  font-weight: 400;
+}
+
+button {
+  padding: 10px;
+  border-radius: 5px;
+  color: #5c5c5c;
+  font-family: 'Roboto Mono';
+  font-weight: 400;
+}
+
+pre {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 10;
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 10;
+}
+
+.buttonStyle {
+  padding: 10px;
+  border: solid 1px #5c5c5c;
+  border-radius: 10px;
+  color: #5c5c5c;
+  text-decoration: none;
+}
+
+.buttonStyle:hover {
+  background-color: #5c5c5c;
+  color: white;
+}
+
+label {
+  font-size: 12.5px;
+  font-style: italic;
+}
